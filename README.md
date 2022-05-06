@@ -2,7 +2,7 @@
 
 ## Ссылка
 
-* FMC task stuck - [link to щкшпштфд doc](https://dependencyhell.net/2021/fmc-task-stuck-deleting-broken-tasks-from-database)
+* FMC task stuck - [link to original doc](https://dependencyhell.net/2021/fmc-task-stuck-deleting-broken-tasks-from-database)
 
 ## FMC task stuck
 Периодически после внесения измений конфигурации на FTD при выполнении Deploy происходит зависание процесса. Рестрат не помогает.
