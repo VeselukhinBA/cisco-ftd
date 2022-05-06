@@ -35,7 +35,7 @@
   OmniQuery.pl -db mdb -e "select status,category,hex(uuid) from notification where status=7;"
 
   Empty set (0.001 sec) 
-```
+  ```
 
 * **Step 05**: Restart FMC Processes for changes to take effect
   ```shell
